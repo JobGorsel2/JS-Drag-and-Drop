@@ -28,3 +28,13 @@
 //     event.preventDefault();
 
 // }, false);
+// document.getElementById("demo").onmouseover = function() {mouseOver()};
+// document.getElementById("demo").onmouseout = function() {mouseOut()};
+
+// function mouseOver() {
+//   document.getElementsByTagName('td').style.color = "red";
+// }
+
+// function mouseOut() {
+//   document.getElementsByTagName('td').style.color = "black";
+// }
